@@ -1,10 +1,10 @@
-# Privacy Policy — Snippet Expander
+# Privacy Policy — snippetFlow
 
 _Last updated: 3 October 2026_
 
 Published by auralFlow.
 
-Snippet Expander turns short typed shortcuts into longer text. It is built to keep your data on your own computer. The one exception is sync, which is off unless you switch it on (see below).
+snippetFlow turns short typed shortcuts into longer text. It is built to keep your data on your own computer. The one exception is sync, which is off unless you switch it on (see below).
 
 ## What it stores
 
